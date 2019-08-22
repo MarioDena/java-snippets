@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArrayCount/ArrayCount.iml" filepath="$PROJECT_DIR$/ArrayCount/ArrayCount.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-snippets.iml" filepath="$PROJECT_DIR$/.idea/java-snippets.iml" />
     </modules>
   </component>
